@@ -1,0 +1,11 @@
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\bin\Debug\netcoreapp3.1\Procedural.exe
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\bin\Debug\netcoreapp3.1\Procedural.deps.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\bin\Debug\netcoreapp3.1\Procedural.runtimeconfig.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\bin\Debug\netcoreapp3.1\Procedural.runtimeconfig.dev.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\bin\Debug\netcoreapp3.1\Procedural.dll
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\bin\Debug\netcoreapp3.1\Procedural.pdb
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\obj\Debug\netcoreapp3.1\Procedural.csprojAssemblyReference.cache
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\obj\Debug\netcoreapp3.1\Procedural.AssemblyInfoInputs.cache
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\obj\Debug\netcoreapp3.1\Procedural.AssemblyInfo.cs
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\obj\Debug\netcoreapp3.1\Procedural.dll
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural\obj\Debug\netcoreapp3.1\Procedural.pdb

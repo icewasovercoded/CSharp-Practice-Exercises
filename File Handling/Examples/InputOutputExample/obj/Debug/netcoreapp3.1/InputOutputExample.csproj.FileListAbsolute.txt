@@ -1,0 +1,11 @@
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\bin\Debug\netcoreapp3.1\InputOutputExample.exe
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\bin\Debug\netcoreapp3.1\InputOutputExample.deps.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\bin\Debug\netcoreapp3.1\InputOutputExample.runtimeconfig.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\bin\Debug\netcoreapp3.1\InputOutputExample.runtimeconfig.dev.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\bin\Debug\netcoreapp3.1\InputOutputExample.dll
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\bin\Debug\netcoreapp3.1\InputOutputExample.pdb
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\obj\Debug\netcoreapp3.1\InputOutputExample.csprojAssemblyReference.cache
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\obj\Debug\netcoreapp3.1\InputOutputExample.AssemblyInfoInputs.cache
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\obj\Debug\netcoreapp3.1\InputOutputExample.AssemblyInfo.cs
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\obj\Debug\netcoreapp3.1\InputOutputExample.dll
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\File Handling\Examples\InputOutputExample\obj\Debug\netcoreapp3.1\InputOutputExample.pdb

@@ -1,0 +1,9 @@
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Procedural Programming\Examples\Procedural 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
