@@ -1,0 +1,10 @@
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task1\obj\Debug\netcoreapp3.1\Task1.pdb

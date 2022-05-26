@@ -1,0 +1,10 @@
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task2\Timespan\obj\Debug\netcoreapp3.1\Timespan.AssemblyInfoInputs.cache
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task2\Timespan\obj\Debug\netcoreapp3.1\Timespan.AssemblyInfo.cs
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task2\Timespan\bin\Debug\netcoreapp3.1\Timespan.exe
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task2\Timespan\bin\Debug\netcoreapp3.1\Timespan.deps.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task2\Timespan\bin\Debug\netcoreapp3.1\Timespan.runtimeconfig.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task2\Timespan\bin\Debug\netcoreapp3.1\Timespan.runtimeconfig.dev.json
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task2\Timespan\bin\Debug\netcoreapp3.1\Timespan.dll
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task2\Timespan\bin\Debug\netcoreapp3.1\Timespan.pdb
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task2\Timespan\obj\Debug\netcoreapp3.1\Timespan.dll
+\\Y-STORAGE06\Y-W-STU-04-H\769602\Work\Computing Work\Stuart Gibbs\Unit 4\Date and Time Tasks\Examples\Task2\Timespan\obj\Debug\netcoreapp3.1\Timespan.pdb
